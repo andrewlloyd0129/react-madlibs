@@ -9,4 +9,5 @@ const Input = (title) => {
     )
 }
 
+
 export default Input;
